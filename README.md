@@ -37,7 +37,7 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```bash
   # check your changes
-  git add .
+  git add . #dot means current directory
 
   # commit your changes
   git commit -m "your changes short description"
@@ -57,7 +57,6 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```
 
-**Note: Always Keep origin `main` branch up to date with upstream `main` branch***
 
 ## Things to DO or NOT to DO
 
@@ -68,6 +67,7 @@ Contribution guidelines for maintaining BdThemes projects.
 - Don't merge branch without review. Ask your team member to review your code and merge it.
 - Before pull request, make sure your branch is up to date with `main` branch. If not, then pull `main` branch to your branch and resolve conflicts if any.
 - while switching branch, make sure your branch is clean. If not, then `commit` your changes or `stash` them.
+- **Note: Always Keep origin `main` branch up to date with upstream `main` branch**
 
 ## Table of Contents
 
@@ -82,9 +82,9 @@ Contribution guidelines for maintaining BdThemes projects.
 
 ## Basics
 
-    In a simple words, You can think like it's a browser to browse Codes line by line, project by project. At the same time `Github` is `Google Drive` for your coding projects. As you browse web pages in a browser, you can store modify and share codes in Github by using Git.
+  In a simple words, You can think like it's a browser to browse Codes line by line, project by project. At the same time `Github` is `Google Drive` for your coding projects. As you browse web pages in a browser, you can store modify and share codes in Github by using Git.
 
-    In a more technical words, `Git` is Version Control System (VCS). Git is `CLI` (Command Line Interface) tools to manage projects simply and efficiently. `Github` is a [remote](#remotes). `Remote` is like service provider for your project. You can use `Github` as a remote for your project. There are many other remotes like `Gitlab`, `Bitbucket` etc.
+  In a more technical words, `Git` is Version Control System (VCS). Git is `CLI` (Command Line Interface) tools to manage projects simply and efficiently. `Github` is a [remote](#remotes). `Remote` is like service provider for your project. You can use `Github` as a remote for your project. There are many other remotes like `Gitlab`, `Bitbucket` etc.
 
 ## Jargons
 

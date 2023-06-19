@@ -66,8 +66,7 @@ Contribution guidelines for maintaining BdThemes projects.
 - Don't merge branch without review. Ask your team member to review your code and merge it.
 - Before pull request, make sure your branch is up to date with `main` branch. If not, then pull `main` branch to your branch and resolve conflicts if any.
 - while switching branch, make sure your branch is clean. If not, then `commit` your changes or `stash` them.
-
-**Note: Always Keep origin `main` branch up to date with upstream `main` branch**
+- **Note: Always Keep origin `main` branch up to date with upstream `main` branch**
 
 ## Table of Contents
 

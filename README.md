@@ -57,8 +57,6 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```
 
-**Note: Always Keep origin `main` branch up to date with upstream `main` branch**
-
 ## Things to DO or NOT to DO
 
 - Don't commit directly to `main` branch. That's totally forbidden and risky. You have to create a new branch for every new feature.
@@ -68,6 +66,8 @@ Contribution guidelines for maintaining BdThemes projects.
 - Don't merge branch without review. Ask your team member to review your code and merge it.
 - Before pull request, make sure your branch is up to date with `main` branch. If not, then pull `main` branch to your branch and resolve conflicts if any.
 - while switching branch, make sure your branch is clean. If not, then `commit` your changes or `stash` them.
+
+**Note: Always Keep origin `main` branch up to date with upstream `main` branch**
 
 ## Table of Contents
 

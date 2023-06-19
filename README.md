@@ -37,7 +37,7 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```bash
   # check your changes
-  git add .
+  git add . #dot means current directory
 
   # commit your changes
   git commit -m "your changes short description"

@@ -57,6 +57,7 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```
 
+
 ## Things to DO or NOT to DO
 
 - Don't commit directly to `main` branch. That's totally forbidden and risky. You have to create a new branch for every new feature.

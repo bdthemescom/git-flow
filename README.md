@@ -57,7 +57,7 @@ Contribution guidelines for maintaining BdThemes projects.
 
   ```
 
-**Note: Always Keep origin `main` branch up to date with upstream `main` branch**
+**Note: Always Keep origin `main` branch up to date with upstream `main` branch***
 
 ## Things to DO or NOT to DO
 

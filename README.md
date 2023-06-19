@@ -82,9 +82,9 @@ Contribution guidelines for maintaining BdThemes projects.
 
 ## Basics
 
-    In a simple words, You can think like it's a browser to browse Codes line by line, project by project. At the same time `Github` is `Google Drive` for your coding projects. As you browse web pages in a browser, you can store modify and share codes in Github by using Git.
+  In a simple words, You can think like it's a browser to browse Codes line by line, project by project. At the same time `Github` is `Google Drive` for your coding projects. As you browse web pages in a browser, you can store modify and share codes in Github by using Git.
 
-    In a more technical words, `Git` is Version Control System (VCS). Git is `CLI` (Command Line Interface) tools to manage projects simply and efficiently. `Github` is a [remote](#remotes). `Remote` is like service provider for your project. You can use `Github` as a remote for your project. There are many other remotes like `Gitlab`, `Bitbucket` etc.
+  In a more technical words, `Git` is Version Control System (VCS). Git is `CLI` (Command Line Interface) tools to manage projects simply and efficiently. `Github` is a [remote](#remotes). `Remote` is like service provider for your project. You can use `Github` as a remote for your project. There are many other remotes like `Gitlab`, `Bitbucket` etc.
 
 ## Jargons
 
